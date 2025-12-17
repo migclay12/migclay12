@@ -22,15 +22,15 @@ Soy un desarrollador apasionado por la tecnología y el código. / I'm a develop
 
 ---
 
-## 📊 Estadísticas de GitHub / GitHub Stats
+## 📊 Top Languajes
 
 <div align="center">
   
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=migclay12&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117)
+  <!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=migclay12&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117) -->
   
   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=migclay12&layout=compact&theme=radical&hide_border=true&bg_color=0D1117)
   
-  ![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=migclay12&theme=radical&hide_border=true&background=0D1117)
+  <!-- ![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=migclay12&theme=radical&hide_border=true&background=0D1117) -->
 
 </div>
 
@@ -40,7 +40,7 @@ Soy un desarrollador apasionado por la tecnología y el código. / I'm a develop
 
 <div align="center">
   
-  ![Snake animation](https://github.com/migclay12/migclay12/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://raw.githubusercontent.com/migclay12/migclay12/output/github-contribution-grid-snake.svg)
 
 </div>
 
