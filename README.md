@@ -1,49 +1,36 @@
-<div align="center">
-  <img src="banner.png?v=2" alt="Banner of a developer sitting in front of a desk" width="100%">
-</div>
+## Hi 👋 I'm Miguel
+
+**Junior Backend Developer** with a strong foundation in **systems programming (C/C++)** and currently focused on **backend development with Python**.
+
+🎓 **42 Madrid**  
+📍 Madrid, Spain  
+🔎 Looking for my **first opportunity as a backend developer**
 
 ---
 
-## 👋 ¡Hola! / Hi there!
+## 🛠️ Tech Stack / Tecnologías y Herramientas
 
-Soy Miguel, un desarrollador apasionado por la tecnología y el código. / I'm Miguel, a developer passionate about technology and code.
-
----
-
-## 🛠️ Tecnologías y Herramientas / Technologies & Tools
-
+### Languages / Lenguajes
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+
+### Backend
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![REST API](https://img.shields.io/badge/-REST%20API-FF6B6B?style=flat-square&logo=rest&logoColor=white)
+![JWT](https://img.shields.io/badge/-JWT-000000?style=flat-square&logo=json-web-tokens&logoColor=white)
+
+### Databases / Bases de Datos
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-CC2927?style=flat-square&logo=mysql&logoColor=white)
+
+### Systems & Tools / Sistemas y Herramientas
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
-
----
-
-## 📊 Top Languajes
-
-<div align="center">
-  
-  <!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=migclay12&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117) -->
-  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=migclay12&layout=compact&theme=radical&hide_border=true&bg_color=0D1117)
-  
-  <!-- ![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=migclay12&theme=radical&hide_border=true&background=0D1117) -->
-
-</div>
-
----
-
-## 🔥 Contribuciones / Contributions
-
-<div align="center">
-  
-  ![Snake animation](https://raw.githubusercontent.com/migclay12/migclay12/main/github-contribution-grid-snake.svg)
-
-</div>
 
 ---
 
