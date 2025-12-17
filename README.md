@@ -66,7 +66,7 @@ Soy Miguel, un desarrollador apasionado por la tecnología y el código. / I'm M
 ### 💬 [IRC](https://github.com/migclay12/ft_irc)
 **Servidor y cliente IRC funcional** / *Functional IRC server and client*
 
-![Tech Stack](https://img.shields.io/badge/Tech-C-00599C?style=flat-square&logo=c&logoColor=white)
+![Tech Stack](https://img.shields.io/badge/Tech-C++-00599C?style=flat-square&logo=c&logoColor=white)
 ![42](https://img.shields.io/badge/42-000000?style=flat-square&logo=42&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Completed-success)
 
@@ -117,3 +117,4 @@ Soy Miguel, un desarrollador apasionado por la tecnología y el código. / I'm M
   ⭐️ Hecho con ❤️ por [migclay12](https://github.com/migclay12) ⭐️
 
 </div>
+
